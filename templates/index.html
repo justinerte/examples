@@ -1,0 +1,86 @@
+$def with (name)
+<!-- <!DOCTYPE HTML> -->
+<html lang="en">
+<head>
+<title>EE810P</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link type="text/css" href="../static/css/bootstrap.css" rel="stylesheet">
+<link type="text/css" href="../static/css/style.css" rel="stylesheet">
+<link type="text/css" rel='stylesheet' id='prettyphoto-css'  href="../static/css/prettyPhoto.css" type='text/css' media='all'>
+<link type="text/css" href="../static/css/fontello.css" type="text/css" rel="stylesheet">
+<!--[if lt IE 7]>
+<link href="css/fontello-ie7.css" type="text/css" rel="stylesheet">
+<![endif]-->
+<link type="text/css" href='http://fonts.googleapis.com/css?family=Quattrocento:400,700' rel='stylesheet' type='text/css'>
+<link type="text/css" href='http://fonts.googleapis.com/css?family=Patua+One' rel='stylesheet' type='text/css'>
+<link type="text/css" href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+<style type="text/css">
+body {
+	padding-top: 60px; /* 60px to make the container go all the way to the bottom of the topbar */
+}
+</style>
+<link type="text/css" href="css/bootstrap-responsive.css" rel="stylesheet">
+<!--[if lt IE 9]>
+<script src="js/html5.js"></script>
+<![endif]-->
+<script type="text/javascript" src="../static/js/jquery.js"></script>
+<script type="text/javascript" src="../static/js/jquery.scrollTo-1.4.2-min.js"></script>
+<script type="text/javascript" src="../static/js/jquery.localscroll-1.2.7-min.js"></script>
+<script charset="utf-8">
+$$(document).ready(function () {
+    $$("a[rel^='prettyPhoto']").prettyPhoto();
+});
+</script>
+</head>
+<body>
+<div class="navbar-wrapper">
+  <div class="navbar navbar-inverse navbar-fixed-top">
+    <div class="navbar-inner">
+      <div class="container">
+        <h1 class="brand"><a href="/">EE810P FINAL</a></h1>
+      </div>
+    </div>
+  </div>
+</div>
+<div id="top"></div>
+<div id="headerwrap">
+  <header class="clearfix">
+    <h1><span>Word Cloud</span> News</h1>
+    <div class="container">
+      <div class="row">
+        <div class="span12">
+		  <form action="/search" method="POST">
+	          <input type="text" name="searchResult" placeholder="Input your search" class="cform-text" size="40" title="your email">
+	          <input type="submit" value="search" class="cform-submit">
+	   	  </form>
+        </div>
+      </div>
+    </div>
+  </header>
+</div>
+<div class="scrollblock">
+  <section id="feature">
+    <div class="container">
+      <div class="row">
+        <div class="span12">
+          <article>
+            <p>We work to make web a beautiful place.</p>
+            <p>We craft beautiful designs and convert them into</p>
+            <p>fully functional and user-friendy web app.</p>
+          </article>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+<div class="footer-wrapper">
+  <div class="container">
+    <footer> <small>Template By: <a href="http://www.dzyngiri.com">EE810P</a></small> </footer>
+  </div>
+</div>
+<script type="text/javascript" src="../static/js/bootstrap.js"></script>
+<script type="text/javascript" src="../static/js/jquery.prettyPhoto.js"></script>
+<script type="text/javascript" src="../static/js/site.js"></script>
+</body>
+</html>

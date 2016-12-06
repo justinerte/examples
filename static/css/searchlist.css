@@ -1,0 +1,42 @@
+body,h3,ul { 
+    margin:0; 
+    padding:0;
+}
+ul { 
+    width:1000px; 
+    margin:0 auto; 
+    position: absolute;
+    top:0; left: 0;bottom: 0;right: 0;
+}
+ul li { 
+    float:left; 
+    margin:0px 0px 50px 0px; 
+    list-style-type:none;
+    display:inline;
+}
+ul li a { 
+    display:block; 
+    width:450px; 
+    height:250px; 
+    text-decoration:none;
+}
+ul li a img { 
+    width:400px; 
+    height:200px; 
+    border:0;
+}
+ul li a span { 
+    display:block; 
+    width:120px; 
+    height:23px; 
+    line-height:20px; 
+    font-size:12px; 
+    text-align:center; 
+    /*color:#333; */
+    cursor:hand; 
+    white-space:nowrap; 
+    overflow:hidden;
+}
+ul li a:hover span { 
+    /*color:#c00;*/
+}

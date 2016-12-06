@@ -1,0 +1,74 @@
+
+<!-- <!DOCTYPE HTML> -->
+<html lang="en">
+<head>
+<title>EE810P</title>
+<meta charset="utf-8">
+
+<link type="text/css" href="../static/css/searchlist.css" rel="stylesheet">
+<link rel = "stylesheet" href ="http://cdn.amazeui.org/amazeui/2.7.2/css/amazeui.min.css">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link type="text/css" href="../static/css/bootstrap.css" rel="stylesheet">
+<link type="text/css" href="../static/css/style1.css" rel="stylesheet">
+<link type="text/css" rel='stylesheet' id='prettyphoto-css'  href="../static/css/prettyPhoto.css" type='text/css' media='all'>
+<link type="text/css" href="../static/css/fontello.css" type="text/css" rel="stylesheet">
+<link type="text/css" href='http://fonts.googleapis.com/css?family=Quattrocento:400,700' rel='stylesheet' type='text/css'>
+<link type="text/css" href='http://fonts.googleapis.com/css?family=Patua+One' rel='stylesheet' type='text/css'>
+<link type="text/css" href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+<style type="text/css">
+body {
+	padding-top: 60px; /* 60px to make the container go all the way to the bottom of the topbar */
+}
+</style>
+<link type="text/css" href="css/bootstrap-responsive.css" rel="stylesheet">
+<script type="text/javascript" src="../static/js/jquery.js"></script>
+<script type="text/javascript" src="../static/js/jquery.scrollTo-1.4.2-min.js"></script>
+<script type="text/javascript" src="../static/js/jquery.localscroll-1.2.7-min.js"></script>
+<script charset="utf-8">
+$$(document).ready(function () {
+    $$("a[rel^='prettyPhoto']").prettyPhoto();
+});
+</script>
+</head>
+<body>
+<div id="top"></div>
+<div id="headerwrap">
+    <div class="container">
+      	<!-- zhimeng -->
+        <div class="am-g">
+	    	<div id="headerwrap">
+				<div id="headerwrap">
+				<ul>{% for img_src in john %}
+				<!-- <li>{{ item }}</li> -->
+				 
+    			<li>
+        			<a href={{img_src.link}}>
+        			<img src={{img_src.img}} alt="1">
+        			 {% print img_src.link %}
+        			<!-- <span>用css网站布局之十步实录</span> -->
+        			</a>
+    			</li>
+    				{% endfor %}</ul>
+			<!-- <ol>{% for img_src in john %} -->
+			    <!-- <li>{{ item }}</li> -->
+			   <!--  {% print img_src.link %}
+			    <li><a href={{img_src.link}}><img src={{img_src.img}} alt="Smiley face"></a></li>
+			{% endfor %}</ol> -->
+				</div>
+			</div>
+
+
+    </div>
+</div>
+
+
+<div class="footer-wrapper">
+  <div class="container">
+    <footer> <small>Template By: <a href="http://www.dzyngiri.com">EE810P</a></small> </footer>
+  </div>
+</div>*/ 
+<script type="text/javascript" src="../static/js/bootstrap.js"></script>
+<script type="text/javascript" src="../static/js/jquery.prettyPhoto.js"></script>
+<script type="text/javascript" src="../static/js/site.js"></script>
+</body>
+</html>

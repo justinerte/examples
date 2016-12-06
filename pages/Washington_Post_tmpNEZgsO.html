@@ -1,0 +1,41 @@
+Washington Post
+https://subscribe.washingtonpost.com/loginregistration/index.html
+<!doctype html> <html class="no-js"> <head> <meta charset="utf-8"> <title>Washington Post</title> <link rel="shortcut icon" href="https://ssl1.washingtonpost.com/favicon.ico"> <meta name="description" content=""> <meta name="viewport" content="width=device-width"> <!-- Place favicon.ico and apple-touch-icon.png in the root directory --> <link rel="stylesheet" href="styles/vendor.20833e0b.css"> <link rel="stylesheet" href="styles/main.cc939370.css"> <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script> <!--[if lte IE 10]>
+    <script src="https://www.washingtonpost.com/wp-srv/actmgmt/javascript/xdomain.js"></script>
+    <script>
+        xdomain.slaves({
+            "https://subscribe.washingtonpost.com": "/proxy.html",
+            "https://subservices.washingtonpost.com": "/proxy.html",
+            "https://account.digitalink.com": "/proxy.html",
+            "https://subscribe.digitalink.com": "/proxy.html",
+            "https://fishlab2.digitalink.com:443": "/proxy.html"
+        });
+    </script>
+
+    <link rel="stylesheet" type="text/css" href="styles/ie9.css">
+    <![endif]--> <!--[if lt IE 9]>
+        <script src="https://www.washingtonpost.com/wp-srv/actmgmt/javascript/redirect.js"></script>
+    <![endif]--> <script>var browserUA = navigator.userAgent;
+        var browserVersion = browserUA.search(/Version\/[5][0-9|.]{1,4} Safari\//,"s");
+        if (browserVersion > -1) {
+           var jsLink = $("<script type='text/javascript' src='https://www.washingtonpost.com/wp-srv/actmgmt/javascript/redirect.js'>");
+           $("head").append(jsLink);
+        }</script> <script src="https://ssl.washingtonpost.com/wp-srv/actmgmt/javascript/s_code.js"></script>  <body> <div id="wapoHeader-container"> <div id="wapoHeader"></div> </div> <script>var urlstr = "https://js.washingtonpost.com/pb/externalHeader/?ssl=true&outputType=ssi&_compact=false";
+
+        $('#wapoHeader-container').hide();
+
+        $.ajax({
+          type: "GET",
+          url: urlstr,
+          success: function (data) {
+            $('#wapoHeader').html(data);
+
+            window.setTimeout(function () {
+              $('#wapoHeader-container').show();
+            }, 500);
+
+          }
+        });</script> <div ng-app="loginRegistrationApp" class="view-wrapper"> <div ng-view="" class="container-fluid pb-container"></div> </div> <!--[if lt IE 9]>
+    <script src="bower_components/es5-shim/es5-shim.js"></script>
+    <script src="bower_components/json3/lib/json3.min.js"></script>
+    <![endif]--> <script src="scripts/vendor.5a0bb731.js"></script> <script src="scripts/scripts.e473a5eb.js"></script>  

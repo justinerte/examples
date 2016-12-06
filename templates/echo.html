@@ -1,0 +1,27 @@
+<!doctype html>
+<title>EE810Python</title>
+<!-- {% if name %}
+  <h1><a href="http://news.google.com">Link {{ name }}!</a></h1>
+{% else %}
+  <h1>EE810P Demo</h1>
+{% endif %}
+{% if img_src %}
+  <a href="http://news.google.com"><img src={{img_src}} alt="Smiley face"></a>
+{% else %}
+  <a href="http://news.google.com"><img src={{img_src}} alt="Smiley face"></a>
+{% endif %} -->
+
+<form action="/search" method="POST">
+<input name="searchResult">
+<input type="submit" value="Search">
+</form>
+<a href="http://news.google.com"><img src={{img_src}} alt="Smiley face"></a>
+<ol>{% for img_src in john %}
+    <!-- <li>{{ item }}</li> -->
+    {% print img_src.link %}
+    <li><a href={{img_src.link}}><img src={{img_src.img}} alt="Smiley face"></a></li>
+{% endfor %}</ol>
+
+<!-- {% if text %}
+  You said: {{ text }}
+{% endif %} -->

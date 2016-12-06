@@ -1,0 +1,22 @@
+telecom industry hails fcc move to open 5g spectrum | network world
+http://www.networkworld.com/article/3095832/mobile-wireless/telecom-industry-hails-fcc-move-to-open-5g-spectrum.html
+fcc chairman tom wheeler
+eleven gigahertz of high frequency spectrum is now available for use in mobile broadband technologies  after the fcc on thursday created the upper microwave flexible use service in the   ghz    ghz and   ghz band  along with a new unlicensed band  even higher up the spectrum  in the      ghz range 
+the move was greeted with delight from the u s  telecom industry  which said that the opening of new spectrum is a critical step on the road to  g wireless technology  the millimeter wave bands     those between   ghz and    ghz     are central to the development of  g  and the u s  is now the first country to designate those frequencies for commercial use 
+  more on network world faq  what the fcc   s  g vote will mean   trump would be a  disaster for innovation   say silicon valley execs 
+that   s important  according to telecommunications industry association ceo scott belcher  because america doesn   t have the early technological edge with  g the way it did with  g lte 
+   u s  companies face a far more challenging environment  and the stakes are extremely high for their businesses and our economy     he said in a statement     the world   s  g leaders will be able to sell their technologies globally and shape the wireless landscape for years to come    
+the president of wireless trade group ctia  meredith attwell baker  echoed that sentiment  and said that the competitive advantage of the fcc   s move cannot be overemphasized 
+   today   s vote by the fcc to make high band spectrum available for  g was a clear victory for americans    mobile first lives     she said     america is the world   s  g lte leader and  in the race to  g  we are positioned well with this spectrum to fuel the next generation of networks  devices and apps    
+ g technology is still a long way off     the generally accepted timeline says that we   ll see it hit the retail market in about          and there   s a lot to do between now and then  while the millimeter wave spectrum is thought to be key to any future  g tech  the precise details of any  g specification are far from settled 
+yet the fcc   s move is widely seen as a step in the right direction  an analyst with the information technology and innovation foundation  a tech industry lobbying group in washington  d c   praised the fcc for its action 
+   this vote  opening up nearly    gigahertz of high frequency spectrum  is a bright spot in recent fcc rulemakings     said telecommunications policy analyst doug brake     by freeing up this millimeter wave spectrum to be capitalized upon by new technology  the fcc is putting the united states on the path for leadership in deploying  g wireless systems    
+in       bryan lunduke sees changes for the linux desktop market  canonical shifting its focus  changes   
+get our daily news newsletter
+as we wind down       we thought it would be fascinating to take a look at what some of the hot topics   
+in       jim gettys  a veteran computer programmer who currently works at google  was at home uploading   
+google will buy     gigawatts of electricity to power its global operations  making it the largest   
+now i ve collected specific kinds of insecure employees that infosec workers have had to deal with and   
+google wifi offers easy setup  internet pausing and whole home coverage 
+the   th annual network world holiday gift guide has something for every techie  and techie wanna be    
+copyright  copy              network world  inc  all rights reserved 

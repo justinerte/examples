@@ -1,0 +1,29 @@
+what we talk about when we talk about 5g wireless | network world
+http://www.networkworld.com/article/3142138/mobile-wireless/what-we-talk-about-when-we-talk-about-5g-wireless.html
+so what is  g  exactly  anyway 
+well  if you   re asking about    exactly     it doesn   t exist yet 
+oh  that helps me a lot 
+sorry  but the best answer to your question is probably that  g is sort of a catch all name to describe the next generation of carrier wireless technology that   s going to be slinging tweets and videos and connected home signals from the internet to your smartphone or your smartwatch or  really  any smart object you   ve got handy   the target speed for  g connectivity is anywhere from    mbps to  gbps  depending on context and who you   re asking  even at the lower bound  that   s roughly    times faster than the u s  average  g connection   according to a february report from opensignal 
+so aside from increased speed why   s it better than  g  haven   t we had enough gs 
+oh  not hardly  you see   g     like  g  and the rest of the gs  in fact     is entirely a marketing term  meant to give an overview of a certain generation of carrier wireless tech  most of what we   ve got in this country that we refer to as  g is called lte  although regular lte isn   t quite  g  according to standards groups  and lte advanced 
+it   s a marketing term  but it   s also a standard  what 
+it   s confusing  without question  the standards body that   s responsible for wide area     that is to say  carrier     wireless technology is  gpp  and while they   ve codified a set of capabilities that qualify as     g     they   re not done doing the same thing for  g 
+  related           the year  g wireless testing really took off  
+so when are they going to be finished with that 
+best guesses from the experts are that the standards work at the international telecommunication union and the subsequent reference designs from  gpp     which these groups undertake in partnership with basically everybody who has a stake in what the eventual technology will look like  including gadget makers  carrier equipment manufacturers  the carriers themselves  and many more     around      or      
+so that   s when we   ll see  g 
+not exactly  a standard is just a definition of what a  g system is supposed to do  it   s not an actual technical design for that system  while there   s a lot of testing and development underway already     and we could even see the odd piece of    pre standard     g technology released here and there      g tech won   t take the consumer market by storm until      at the earliest  and possibly not until      or later 
+the big question  then     what   s it going to look like when it gets here 
+   cool     in a word   g wireless is going to be complex and powerful  able to handle both the raw bandwidth demands of the near future and the huge increase in the number of connected devices  as cars and refrigerators and light switches join smartphones and tablets on the airwaves  it   ll use lower frequency radios to cover large areas  like now  with lots of optimizations to permit more connections per access point  as well as larger numbers of millimeter wave base stations to provide enormously fast throughput speeds to areas of dense demand 
+that is cool 
+no kidding 
+more   g wireless slowly  carefully taking shape
+based on comments by unnamed sources  an article about avaya weighing bankruptcy has triggered a   
+get our daily news newsletter
+yann lecun  artificial intelligence pioneer and head of facebook   s ai research group  explains machine   
+in       jim gettys  a veteran computer programmer who currently works at google  was at home uploading   
+a new access point for the hospitality industry from cisco   s meraki division can work with bluetooth   
+what should an enterprise do with flash  ban it  phase it out  or accept that it will remain as legacy   
+the   th annual network world holiday gift guide has something for every techie  and techie wanna be    
+amazon web services is easy to work with    but can easily compromise your environment with a single   
+copyright  copy              network world  inc  all rights reserved 
